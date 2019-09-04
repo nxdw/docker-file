@@ -1,4 +1,4 @@
-    依据hub.docker.com上面的官方镜像，自己根据实际运维所需，添加了一些常用命令和修改了容器的启动进程为start_service.sh脚本。
+依据hub.docker.com上面的官方镜像，自己根据实际运维所需，添加了一些常用命令和修改了容器的启动进程为start_service.sh脚本。
 
 注：
     
